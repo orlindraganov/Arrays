@@ -1,0 +1,5 @@
+D:\Orlinovski Tapotii\Arrays\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.exe.config
+D:\Orlinovski Tapotii\Arrays\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.exe
+D:\Orlinovski Tapotii\Arrays\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.pdb
+D:\Orlinovski Tapotii\Arrays\MaximalIncreasingSequence\obj\Debug\MaximalIncreasingSequence.exe
+D:\Orlinovski Tapotii\Arrays\MaximalIncreasingSequence\obj\Debug\MaximalIncreasingSequence.pdb

@@ -1,0 +1,6 @@
+D:\Orlinovski Tapotii\Arrays\FreqNumber\obj\Debug\09.FreqNumber.csprojResolveAssemblyReference.cache
+D:\Orlinovski Tapotii\Arrays\FreqNumber\bin\Debug\FreqNumber.exe.config
+D:\Orlinovski Tapotii\Arrays\FreqNumber\bin\Debug\FreqNumber.exe
+D:\Orlinovski Tapotii\Arrays\FreqNumber\bin\Debug\FreqNumber.pdb
+D:\Orlinovski Tapotii\Arrays\FreqNumber\obj\Debug\FreqNumber.exe
+D:\Orlinovski Tapotii\Arrays\FreqNumber\obj\Debug\FreqNumber.pdb

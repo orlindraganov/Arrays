@@ -1,0 +1,6 @@
+D:\Orlinovski Tapotii\Arrays\QuickSort\bin\Debug\QuickSort.exe.config
+D:\Orlinovski Tapotii\Arrays\QuickSort\bin\Debug\QuickSort.exe
+D:\Orlinovski Tapotii\Arrays\QuickSort\bin\Debug\QuickSort.pdb
+D:\Orlinovski Tapotii\Arrays\QuickSort\obj\Debug\14.QuickSort.csprojResolveAssemblyReference.cache
+D:\Orlinovski Tapotii\Arrays\QuickSort\obj\Debug\QuickSort.exe
+D:\Orlinovski Tapotii\Arrays\QuickSort\obj\Debug\QuickSort.pdb

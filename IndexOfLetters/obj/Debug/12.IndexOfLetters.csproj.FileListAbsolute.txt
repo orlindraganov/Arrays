@@ -1,0 +1,6 @@
+D:\Orlinovski Tapotii\Arrays\IndexOfLetters\bin\Debug\IndexOfLetters.exe.config
+D:\Orlinovski Tapotii\Arrays\IndexOfLetters\bin\Debug\IndexOfLetters.exe
+D:\Orlinovski Tapotii\Arrays\IndexOfLetters\bin\Debug\IndexOfLetters.pdb
+D:\Orlinovski Tapotii\Arrays\IndexOfLetters\obj\Debug\12.IndexOfLetters.csprojResolveAssemblyReference.cache
+D:\Orlinovski Tapotii\Arrays\IndexOfLetters\obj\Debug\IndexOfLetters.exe
+D:\Orlinovski Tapotii\Arrays\IndexOfLetters\obj\Debug\IndexOfLetters.pdb

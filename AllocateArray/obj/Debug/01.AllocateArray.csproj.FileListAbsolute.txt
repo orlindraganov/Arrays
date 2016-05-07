@@ -1,0 +1,6 @@
+D:\Orlinovski Tapotii\Arrays\AllocateArray\bin\Debug\AllocateArray.exe.config
+D:\Orlinovski Tapotii\Arrays\AllocateArray\bin\Debug\AllocateArray.exe
+D:\Orlinovski Tapotii\Arrays\AllocateArray\bin\Debug\AllocateArray.pdb
+D:\Orlinovski Tapotii\Arrays\AllocateArray\obj\Debug\01.AllocateArray.csprojResolveAssemblyReference.cache
+D:\Orlinovski Tapotii\Arrays\AllocateArray\obj\Debug\AllocateArray.exe
+D:\Orlinovski Tapotii\Arrays\AllocateArray\obj\Debug\AllocateArray.pdb

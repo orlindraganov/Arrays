@@ -1,0 +1,6 @@
+D:\Orlinovski Tapotii\Arrays\MaxSum\bin\Debug\MaxSum.exe.config
+D:\Orlinovski Tapotii\Arrays\MaxSum\bin\Debug\MaxSum.exe
+D:\Orlinovski Tapotii\Arrays\MaxSum\bin\Debug\MaxSum.pdb
+D:\Orlinovski Tapotii\Arrays\MaxSum\obj\Debug\08.MaxSum.csprojResolveAssemblyReference.cache
+D:\Orlinovski Tapotii\Arrays\MaxSum\obj\Debug\MaxSum.exe
+D:\Orlinovski Tapotii\Arrays\MaxSum\obj\Debug\MaxSum.pdb
