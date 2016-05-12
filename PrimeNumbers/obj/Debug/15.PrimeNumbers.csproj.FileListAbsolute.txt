@@ -1,0 +1,6 @@
+D:\Orlinovski Tapotii\Arrays\PrimeNumbers\bin\Debug\PrimeNumbers.exe.config
+D:\Orlinovski Tapotii\Arrays\PrimeNumbers\bin\Debug\PrimeNumbers.exe
+D:\Orlinovski Tapotii\Arrays\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+D:\Orlinovski Tapotii\Arrays\PrimeNumbers\obj\Debug\15.PrimeNumbers.csprojResolveAssemblyReference.cache
+D:\Orlinovski Tapotii\Arrays\PrimeNumbers\obj\Debug\PrimeNumbers.exe
+D:\Orlinovski Tapotii\Arrays\PrimeNumbers\obj\Debug\PrimeNumbers.pdb

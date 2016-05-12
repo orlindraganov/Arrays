@@ -1,0 +1,6 @@
+D:\Orlinovski Tapotii\Arrays\RemoveElementsFromArray\bin\Debug\RemoveElementsFromArray.exe.config
+D:\Orlinovski Tapotii\Arrays\RemoveElementsFromArray\bin\Debug\RemoveElementsFromArray.exe
+D:\Orlinovski Tapotii\Arrays\RemoveElementsFromArray\bin\Debug\RemoveElementsFromArray.pdb
+D:\Orlinovski Tapotii\Arrays\RemoveElementsFromArray\obj\Debug\18.RemoveElementsFromArray.csprojResolveAssemblyReference.cache
+D:\Orlinovski Tapotii\Arrays\RemoveElementsFromArray\obj\Debug\RemoveElementsFromArray.exe
+D:\Orlinovski Tapotii\Arrays\RemoveElementsFromArray\obj\Debug\RemoveElementsFromArray.pdb

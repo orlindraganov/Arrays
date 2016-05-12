@@ -10,7 +10,6 @@ class MaxIncSeq
         int[] arrayToTest = new int[arraySize];
         int currentSeq = 0;
         int maxSeq = 0;
-        int step = 0;
 
         for (int i = 0; i < arraySize; i++)
         {

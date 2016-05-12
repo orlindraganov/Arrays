@@ -1,0 +1,6 @@
+D:\Orlinovski Tapotii\Arrays\16.SubsetWithSum\bin\Debug\16.SubsetWithSum.exe.config
+D:\Orlinovski Tapotii\Arrays\16.SubsetWithSum\bin\Debug\16.SubsetWithSum.exe
+D:\Orlinovski Tapotii\Arrays\16.SubsetWithSum\bin\Debug\16.SubsetWithSum.pdb
+D:\Orlinovski Tapotii\Arrays\16.SubsetWithSum\obj\Debug\16.SubsetWithSum.csprojResolveAssemblyReference.cache
+D:\Orlinovski Tapotii\Arrays\16.SubsetWithSum\obj\Debug\16.SubsetWithSum.exe
+D:\Orlinovski Tapotii\Arrays\16.SubsetWithSum\obj\Debug\16.SubsetWithSum.pdb
